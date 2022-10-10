@@ -1,0 +1,15 @@
+D:\Обучение\geekBrains\DZseminar3\Task19\bin\Debug\net6.0\Task19.exe
+D:\Обучение\geekBrains\DZseminar3\Task19\bin\Debug\net6.0\Task19.deps.json
+D:\Обучение\geekBrains\DZseminar3\Task19\bin\Debug\net6.0\Task19.runtimeconfig.json
+D:\Обучение\geekBrains\DZseminar3\Task19\bin\Debug\net6.0\Task19.dll
+D:\Обучение\geekBrains\DZseminar3\Task19\bin\Debug\net6.0\Task19.pdb
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\Task19.dll
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\refint\Task19.dll
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\Task19.pdb
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
+D:\Обучение\geekBrains\DZseminar3\Task19\obj\Debug\net6.0\ref\Task19.dll
